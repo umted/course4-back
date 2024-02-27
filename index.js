@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors')
 
-const port = 3000;
+const port = 443;
 const app = express();
 const contacts = [{name: 'Telegram', link: 'https://t.me/umteddd'}, {name: 'VK', link: 'https://vk.com/umted'}]
 
